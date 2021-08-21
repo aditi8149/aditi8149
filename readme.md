@@ -33,7 +33,7 @@
 
  
  ### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/theanshulcode/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/aditi8149/count.svg)
  
  ### 🔧 Technologies
 ![Python](https://img.icons8.com/color/30/000000/python.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)
