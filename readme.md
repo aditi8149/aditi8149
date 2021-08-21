@@ -1,6 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditi --> 
+
+## Hey there! I'm Aditi
 
 
  
@@ -23,7 +23,7 @@
 -  I'm a Pre-Final Year Undergrad Student majoring in Computer Science and Engineering.
 -  I’m currently working on Machine Learning and Data Structures & Algorithms.
 -  I'm an Open Source Contributor.
--  Exploring areas Machine Learning, Big Data Analytics & Data Science.
+-  Exploring areas Machine Learning & Data Science.
   
  ### Languages and Tools:  
 
@@ -36,7 +36,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/aditi8149/count.svg)
  
  ### 🔧 Technologies
-![Python](https://img.icons8.com/color/30/000000/python.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![VSCode](https://img.icons8.com/color/25/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)
+![Python](https://img.icons8.com/color/30/000000/python.png)![Github](https://img.icons8.com/material-outlined/25/github.png)![Git](https://img.icons8.com/color/25/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
 
 
